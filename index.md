@@ -5,3 +5,6 @@ The website is still under construction.
 
 I'm Ningjing Tang, a senior year student studying in Tsinghua University. I'm currently interested in human-computer interaction and social computing.
 
+**Feeling bored?**
+
+Chat with a simple [chatbot](chatbot/) here
