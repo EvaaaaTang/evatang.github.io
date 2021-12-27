@@ -16,6 +16,7 @@
       border-radius: 15px;
     }
 	@import url("https://fonts.googleapis.com/css?family=Inconsolata:400,700");
+  @import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
 h1 {
   font-size: 7vh;
 }
@@ -34,7 +35,7 @@ body,
 }
 
 body {
-  font-family: "Inconsolata", monospace;
+  font-family: 'Short Stack', cursive;
   background: linear-gradient(-20deg, #ddd6f3 0%, #faaca8 100%, #faaca8 100%);
   color: white;
   background-attachment: fixed;
@@ -381,25 +382,26 @@ function elizaStep() {
 
 //-->
 </SCRIPT>
+<link rel="stylesheet" href="doodle.css">
 </HEAD>
 
 <BODY TOPMARGIN="0" LEFTMARGIN="0" RIGHTMARGIN="0" BOTTOMMARGIN="0" MARGINHEIGHT="0" MARGINWIDTH="0" STYLE="border:0" onload="window.setTimeout('elizaReset()',100)"><A NAME="top"></A>
 
 
 
-<CENTER>
+<center>
 <P>&nbsp;</P>
-<H3>Eliza</H3>
-<TABLE ID='chatborder' BORDER="0" CELLSPACING="10" CELLPADDING="0">
-<FORM NAME="e_form" onsubmit="elizaStep();return false">
-<TR><TD COLSPAN="2"><TEXTAREA NAME="e_display" COLS="60" ROWS="20"></TEXTAREA></TD></TR>
-<TR VALIGN="middle">
-	<TD><INPUT TYPE="text" NAME="e_input" SIZE="50"></TD>
-	<TD ALIGN="right"><INPUT TYPE="submit" VALUE="&nbsp;Talk&nbsp;"> <INPUT TYPE="reset" VALUE="Reset" onClick="window.setTimeout('elizaReset()',100)"></TD>
-</TR>
-</FORM>
-</TABLE>
-</CENTER>
+<h3>Eliza</h3>
+<table class="doodle" BORDER="0" CELLSPACING="10" CELLPADDING="0">
+<form NAME="e_form" onsubmit="elizaStep();return false">
+<TR><TD COLSPAN="2"><textarea NAME="e_display" COLS="60" ROWS="20"></textarea></td></tr>
+<tr VALIGN="middle">
+	<td><input TYPE="text" NAME="e_input" SIZE="50"></td>
+	<td ALIGN="right"><input TYPE="submit" VALUE="&nbsp;Talk&nbsp;"> <input TYPE="reset" VALUE="Reset" onClick="window.setTimeout('elizaReset()',100)"></td>
+  </tr>
+</form>
+</table>
+</center>
 
 <P>&nbsp;</P>
 <P ALIGN="center">The chatbot is created by <A HREF="http://www.masswerk.at">ELIZA</A>.</P>
