@@ -1,14 +1,14 @@
-## Ningjing Tang
-### About me
+---
+layout: page
+title: About me
+sitemap:
+  priority: 0.9
+---
 
-I'm Ningjing Tang, a senior year student studying in Tsinghua University. I'm currently interested in human-computer interaction and social computing.
+<img src="{{ '/assets/img/profile.jpg' | prepend: site.baseurl }}" id="about-img">
 
-### Publications
-
-[Dare to Dream, Dare to Livestream: How E-commerce Livestreaming Empowers Chinese Rural Women](https://dl.acm.org/doi/abs/10.1145/3491102.3517634) [CHI 2022]
-
-**Ningjing Tang**, Lei Tao, Bo Wen, Zhicong Lu
-
-**Feeling bored?**
-
-Chat with a simple [chatbot](chatbot/) here
+<div id="describe-text" style="padding-left: 20px;padding-right: 20px;">
+	<p>I'm Ningjing Tang, an undergraduate student studying in the department of Computer Science and Technology in Tsinghua University.</p>
+	<p>My research interests lie in the intersection of HCI and social computing. To be specific, currently I'm interested in 1)understanding marginalized people's engagement in social media and 2)designing and buiding online systems for empowerment and public welfare.</p>
+	<p>I am fortunate to have been advised by <strong> <a href="https://www.cs.cityu.edu.hk/~zhiconlu/">Prof. Zhicong Lu</a></strong>, and I have worked in <strong> <a href="https://thfl.tsinghua.edu.cn/en/yjdw/yjs/index.htm">the Future Laboratory </a> </strong> affective computing group as a research intern.</p>
+</div>
