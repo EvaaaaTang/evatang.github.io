@@ -117,7 +117,15 @@
     font-weight: 700;  }
   
   .pub__author {
-    font-size: 100%;
+    font-size: 110%;
+    color: #828282;
+    margin-block-start: 0em;
+    margin-bottom: 0em;
+  }
+
+  .pub__link {
+    font-size: 110%;
+    font-weight: 300;
     color: #828282;
     margin-block-start: 0em;
   }
