@@ -21,9 +21,9 @@ layout: page
 </li>
 
 <li class="post-teaser">
-<span class="post-teaser__title">[In submission] Designing Chatbot for Information Elicitation</span>
+<span class="post-teaser__title">[CSCW '24] Designing the Conversational Agent: Asking Follow-up Questions for Information Elicitation</span>
 <p class="pub__author">
-Anonymous authors
+Jiaxiong Hu, Jingya Guo, <strong>Ningjing Tang</strong>, Xiaojuan Ma, Yuan Yao, Changyuan Yang, Yingqing Xu
 </p>
 </li>
 </ul>
