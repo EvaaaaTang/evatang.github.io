@@ -6,6 +6,12 @@ layout: page
 <div>
 <ul class="list-posts">
 <li class="post-teaser">
+<span class="post-teaser__title">[FAccT '24] AI Failure Cards: Understanding and Supporting Grassroots Efforts to Mitigate AI Failures in Homeless Services </span>
+<p class="pub__author">
+<strong>Ningjing Tang</strong>, Jiayin Zhi, Tzu-Sheng Kuo, Calla Kainaroi, Jeremy J. Northup, Kenneth Holstein, Haiyi Zhu, Hoda Heidari, and Hong Shen
+</p>
+</li>
+<li class="post-teaser">
 <span class="post-teaser__title">[CHI '22] Dare to Dream, Dare to Livestream: How E-Commerce Livestreaming Empowers Chinese Rural Women</span>
 <p class="pub__author">
 <strong>Ningjing Tang</strong>, Lei Tao, Bo Wen, Zhicong Lu 
