@@ -27,6 +27,11 @@
 <i class="fa fa-twitter"></i>
 </a>
 {% endif %}
+{% if site.author.googlescholar %}
+<a href="https://scholar.google.com/citations?user={{  site.author.googlescholar  }}&hl=en&oi=ao" class="social-links__entry" target="_blank">
+<i class="fa fa-google-scholar"></i>
+</a>
+{% endif %}
 </ul>
 {% if site.google_analytics and jekyll.environment == 'production' %}
 {% include google-analytics.html %}
