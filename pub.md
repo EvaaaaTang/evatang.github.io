@@ -12,7 +12,7 @@ layout: page
 </p>
 </p>
 <p class="pub__link">
-<a href="./assets/facct-60.pdf">
+<a href="./assets/facct24-50 (5).pdf">
 [Paper PDF]
 </a>
 </p>
