@@ -10,6 +10,12 @@ layout: page
 <p class="pub__author">
 <strong>Ningjing Tang</strong>, Jiayin Zhi, Tzu-Sheng Kuo, Calla Kainaroi, Jeremy J. Northup, Kenneth Holstein, Haiyi Zhu, Hoda Heidari, and Hong Shen
 </p>
+</p>
+<p class="pub__link">
+<a href="./assets/facct-60.pdf">
+[Paper PDF]
+</a>
+</p>
 </li>
 <li class="post-teaser">
 <span class="post-teaser__title">[CHI '22] Dare to Dream, Dare to Livestream: How E-Commerce Livestreaming Empowers Chinese Rural Women</span>
